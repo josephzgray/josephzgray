@@ -43,7 +43,7 @@ I'm **Joseph** (jzgao), a backend developer who likes getting things running in 
 
 <p>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=java,spring,mysql,redis,kafka,postgres,elasticsearch,python,vue,docker,nginx,linux,git,maven&perline=14&theme=dark">
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=java%2Cspring%2Cmysql%2Credis%2Ckafka%2Cpostgres%2Celasticsearch%2Cpython%2Cvue%2Cdocker%2Cnginx%2Clinux%2Cgit%2Cmaven&perline=14&theme=dark">
     <img alt="Java, Spring, MySQL, Redis, Kafka, PostgreSQL, Elasticsearch, Python, Vue, Docker, Nginx, Linux, Git, Maven" src="https://skillicons.dev/icons?i=java,spring,mysql,redis,kafka,postgres,elasticsearch,python,vue,docker,nginx,linux,git,maven&perline=14&theme=light" width="100%">
   </picture>
 </p>
